@@ -1,0 +1,1 @@
+This repo is a website I've put together to serve as a final exercise for the flexbox chapter of The Odin Project's Fundamentals learning path. 
